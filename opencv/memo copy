@@ -1,0 +1,6 @@
+(opencv4) pip install jupyter
+(opencv4) jupyter-notebook --ip=* --no-browser opencv-works/
+
+192.168.159.130/24
+
+192.168.159.130:8888
